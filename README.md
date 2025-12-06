@@ -76,7 +76,7 @@ Shows:
 - total monthly spending  
 + month-over-month change  
 
-### Time Series**
+### Time Series
 Trend over time for the selected indicator.
 
 ### Ranking
