@@ -97,14 +97,13 @@ All charts update instantly.
 ### Download
 Users can export the filtered dataset as CSV.
 
-### **Demo video**
-demo.mov
-
----
-
 ## 6. How to Run the App
 
 ### Install dependencies
 pip install -r requirements.txt
 
 streamlit run app.py
+
+### **Demo**
+demo.mov
+https://unemployment-insurance-dashboardfrancegit-avjjkmaxgigzalrl5nqn.streamlit.app/
